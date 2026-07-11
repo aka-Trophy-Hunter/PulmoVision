@@ -19,6 +19,9 @@ st.write("""
          """
          )
 
+st.image("pulmo.png", use_column_width=True)
+
+
 file = st.file_uploader("Please upload a chest scan file", type=["jpg", "jpeg", "png"])
 
 
