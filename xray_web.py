@@ -15,7 +15,7 @@ with st.spinner('Model is being loaded..'):
     model = load_model()
 
 st.write("""
-         # Pneumonia Identification System
+         # PulmoVision
          """
          )
 
