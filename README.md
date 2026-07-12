@@ -1,6 +1,8 @@
 # PulmoVision: Automated Pneumonia Diagnosis Using Deep Learning
 Pneumonia is an inflammatory condition primarily affecting the lungs, characterized by symptoms such as cough, chest pain, fever, and difficulty breathing. The goal of this project is to develop an automated system for detecting and classifying pneumonia in medical images.
 
+## Live App: https://pulmovision-ai.streamlit.app/ 
+
 ## Project Overview
 
 Respiratory infections such as pneumonia remain a significant global health concern, often leading to severe complications if not diagnosed early. This project focuses on designing an intelligent deep learning system capable of analyzing chest X-ray images to identify signs of pneumonia automatically. The objective is to assist healthcare professionals by providing a reliable computer-aided diagnostic solution for faster clinical decision-making.
